@@ -1,4 +1,3 @@
-//your JS code here. If required.
  // Get elements
         const openModalBtn = document.getElementById('openModal');
         const modal = document.getElementById('myModal');
